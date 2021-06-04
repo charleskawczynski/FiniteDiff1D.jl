@@ -1,0 +1,7 @@
+name = "FiniteDiff1D"
+uuid = "b42c7a31-8d30-4e24-81e2-85038b96c2f3"
+authors = ["Charles Kawczynski <kawczynski.charles@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+Symbolics = "0c5d862f-8b57-4792-8d23-62f2024744c7"
