@@ -1,0 +1,5 @@
+[deps]
+Documenter = "e30172f5-a6a5-5a46-863b-614d45cd2de4"
+DocumenterCitations = "daee34ce-89f3-4625-b898-19384cb65244"
+FiniteDiff1D = "b42c7a31-8d30-4e24-81e2-85038b96c2f3"
+Latexify = "23fbe1c1-3f47-55db-b15f-69d7ec21a316"
